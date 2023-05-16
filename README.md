@@ -10,5 +10,5 @@ The accuracy of the model was tested using a variety of metrics, and found that 
 <br>
 
 <p align="center">
-  <img src="https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees/blob/250f39aff1e8154b1bd690fcf1d2782f02ed01b0/random-forest-diagram.svg">
+  <img width="500" height="300" src="https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees/blob/250f39aff1e8154b1bd690fcf1d2782f02ed01b0/random-forest-diagram.svg">
 </p>
